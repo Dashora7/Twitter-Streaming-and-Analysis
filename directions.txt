@@ -1,0 +1,8 @@
+1.) To get the tweets, I ran the twitter_streamer.py script. From the command line, the output was channeled into a txt file.
+I have premade two tweet lists. One is from the US, named us_tweets.txt, and the other is streamed with no filters and is named
+tweet_list.txt. 
+
+2.) To analyze the scripts, run the language_analysis.py file. It should generate plots and output text which answer the HW questions.
+
+3.) I implemented another data analysis plot which is a map of tweet frequencies across the USA. This graph can only be generated on
+jupyter notebooks so I have put it in an ipynb file. Run that cell to create the graph.
